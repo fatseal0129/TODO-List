@@ -1,5 +1,6 @@
 # TODO-List
-Counter-Strike Plugins
+當作一個短期目標吧！ 完成會一併發在數位男女上
+amxx Plugins
 - [ ] 集字 (作業中)
 - [ ] 等級
 - [ ] 點數
